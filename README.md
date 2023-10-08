@@ -1,7 +1,7 @@
 # Bharat-Intern-project
 Being part of Bharat Intern Internship I have done 3 Tasks as follows:
 # Task-1
- Prediction of species using sepal and petal width & length using logistics regression.
+ Prediction of species using sepal and petal length using logistics regression.
  IRIS.csv file contain the Dataset for these Project.
  Iris_coding.ipynb file contain the Working done by me on iris Dataset.
 # Task-2
